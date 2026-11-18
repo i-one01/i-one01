@@ -7,3 +7,7 @@
 
 - 🌱 В настоящее время изучаю .
 - 📫 Как со мной связаться: [Email](mailto:you@example.com)
+
+![snake](https://raw.githubusercontent.com/i-one01/i-one01/output/github-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=i-one01&color=blue)
